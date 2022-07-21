@@ -26,8 +26,9 @@ namespace Shaper.Shapes
             float len = Sqrt(Randomf.Range(0f, 1f));
 
             // Add point to results.
-            float xPos = len * Cos(theta) * this.RadiusWidth;
-            float yPos = len * Sin(theta) * this.RadiusHeight;
+            float xPos = len * Sin(theta) * this.RadiusWidth;
+            float yPos = len * Cos(theta) * this.RadiusHeight;
+            
             return (xPos, yPos);
         }
     }
