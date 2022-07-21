@@ -36,7 +36,7 @@ namespace ShapeCalculations.Shapes
                 u2 = 1 - u2;
             }
             //var w = u1 * a + u2 * b;
-
+            // patch
             throw new NotImplementedException();
         }
     }
