@@ -1,4 +1,4 @@
-﻿namespace ShapeCalculations.Random
+﻿namespace Shaper.Random
 {
     public static class Randomf
     {

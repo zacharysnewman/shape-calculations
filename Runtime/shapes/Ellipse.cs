@@ -1,7 +1,7 @@
-﻿using ShapeCalculations.Random;
-using static ShapeCalculations.Math.Mathf;
+﻿using Shaper.Random;
+using static Shaper.Math.Mathf;
 
-namespace ShapeCalculations.Shapes
+namespace Shaper.Shapes
 {
     public class Ellipse : IRandomPointable
     {

@@ -4,14 +4,14 @@ using static Shaper.Math.Mathf;
 
 namespace Shaper.Shapes
 {
-    public class Circle : IRandomPointable
+    public class SemiCircle : IRandomPointable
     {
         public float Radius { get; private set; }
         public float Diameter { get => 2f * this.Radius; }
         public float Area { get => PI * Pow(this.Radius, 2); }
         public float Perimeter { get => 2f * PI * this.Radius; }
 
-        public Circle(float radius)
+        public SemiCircle(float radius)
         {
             this.Radius = radius;
         }

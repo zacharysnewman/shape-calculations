@@ -1,4 +1,4 @@
-﻿namespace ShapeCalculations.Shapes
+﻿namespace Shaper.Shapes
 {
     public interface IRandomPointable
     {
