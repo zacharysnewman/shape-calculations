@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/zacharysnewman/shaper/compare/v1.1.4...v1.1.5) (2022-07-21)
+
+
+### Bug Fixes
+
+* **shapes:** fixed rectangle ([791af63](https://github.com/zacharysnewman/shaper/commit/791af63403afacc38bfa12b5ec2c1884a74009cd))
+
 ## [1.1.4](https://github.com/zacharysnewman/shaper/compare/v1.1.3...v1.1.4) (2022-07-21)
 
 
