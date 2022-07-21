@@ -1,10 +1,3 @@
-## [1.0.2](https://github.com/zacharysnewman/shape-calculations/compare/v1.0.1...v1.0.2) (2022-07-21)
-
-
-### Bug Fixes
-
-* **meta-files:** removed unnecesary meta files and renamed Triangle to inner class ([ad14c2d](https://github.com/zacharysnewman/shape-calculations/commit/ad14c2de52976719a6c2649a85b2249ee499a428))
-
 ## [1.0.1](https://github.com/zacharysnewman/shape-calculations/compare/v1.0.0...v1.0.1) (2022-07-21)
 
 
