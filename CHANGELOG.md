@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/zacharysnewman/shaper/compare/v1.1.2...v1.1.3) (2022-07-21)
+
+
+### Bug Fixes
+
+* **shapes:** moved shapes with no implementation to dedicated folder ([69e44c7](https://github.com/zacharysnewman/shaper/commit/69e44c7676b57caff134b14ffb3bb8a2af2aef44))
+
 ## [1.1.2](https://github.com/zacharysnewman/shaper/compare/v1.1.1...v1.1.2) (2022-07-21)
 
 
