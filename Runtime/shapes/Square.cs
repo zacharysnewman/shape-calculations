@@ -3,7 +3,7 @@ using static Shaper.Math.Mathf;
 
 namespace Shaper.Shapes
 {
-    public class Square
+    public class Square : IRandomPointable
     {
         public float Length { get; private set; }
         public float Width { get => this.Length; }
