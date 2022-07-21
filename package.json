@@ -1,6 +1,6 @@
 {
   "name": "com.dropkick.shape-calculations",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Shape Calculations",
   "description": "A library of shapes that can have various calculations performed against them.",
   "keywords": [
