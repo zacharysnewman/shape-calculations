@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/zacharysnewman/shape-calculations/compare/v1.1.0...v1.1.1) (2022-07-21)
+
+
+### Bug Fixes
+
+* **meta:** Added meta files for new shapes ([7734fb7](https://github.com/zacharysnewman/shape-calculations/commit/7734fb76277ac9d510b548cb47812d0515a99f86))
+
 # [1.1.0](https://github.com/zacharysnewman/shape-calculations/compare/v1.0.4...v1.1.0) (2022-07-21)
 
 
