@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/zacharysnewman/shaper/compare/v1.1.6...v1.1.7) (2022-07-21)
+
+
+### Bug Fixes
+
+* **triangle:** Implement GetRandomPoint ([2315a13](https://github.com/zacharysnewman/shaper/commit/2315a136e6148e78dbc7eaf34fec5fc93da823de))
+
 ## [1.1.6](https://github.com/zacharysnewman/shaper/compare/v1.1.5...v1.1.6) (2022-07-21)
 
 
