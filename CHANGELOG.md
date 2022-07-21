@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/zacharysnewman/shaper/compare/v1.1.3...v1.1.4) (2022-07-21)
+
+
+### Bug Fixes
+
+* **ellipse:** test get point logic ([0f44e18](https://github.com/zacharysnewman/shaper/commit/0f44e1888cb66122732a148cc30f253b8275135e))
+
 ## [1.1.3](https://github.com/zacharysnewman/shaper/compare/v1.1.2...v1.1.3) (2022-07-21)
 
 
