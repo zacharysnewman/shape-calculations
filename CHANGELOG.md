@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/zacharysnewman/shaper/compare/v1.1.5...v1.1.6) (2022-07-21)
+
+
+### Bug Fixes
+
+* **square:** added IRandomPointable interface ([3617bba](https://github.com/zacharysnewman/shaper/commit/3617bba51354b693b2dda167a218e49156fe990d))
+
 ## [1.1.5](https://github.com/zacharysnewman/shaper/compare/v1.1.4...v1.1.5) (2022-07-21)
 
 
