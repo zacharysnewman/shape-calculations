@@ -18,6 +18,6 @@ namespace Shaper.Shapes
         }
 
         public (float, float) GetRandomPoint() =>
-            (Randomf.Range(-this.Height, this.Height), Randomf.Range(-this.Width, this.Width));
+            (Randomf.Range(-this.Width, this.Width), Randomf.Range(-this.Height, this.Height));
     }
 }
