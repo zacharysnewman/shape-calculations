@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/zacharysnewman/shaper/compare/v1.1.1...v1.1.2) (2022-07-21)
+
+
+### Bug Fixes
+
+* **configuration:** updated name and configuration. ([5e8c20f](https://github.com/zacharysnewman/shaper/commit/5e8c20f7c0fe017fc2c18eec4c77eead9d642646))
+
 ## [1.1.1](https://github.com/zacharysnewman/shape-calculations/compare/v1.1.0...v1.1.1) (2022-07-21)
 
 
