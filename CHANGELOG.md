@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/zacharysnewman/shape-calculations/compare/v1.0.4...v1.1.0) (2022-07-21)
+
+
+### Features
+
+* **shapes:** Added shapes without implementations ([e4707ae](https://github.com/zacharysnewman/shape-calculations/commit/e4707aee62eb92763b8a110373a1c190ab533197))
+
 ## [1.0.4](https://github.com/zacharysnewman/shape-calculations/compare/v1.0.3...v1.0.4) (2022-07-21)
 
 
