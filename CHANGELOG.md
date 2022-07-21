@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/zacharysnewman/shape-calculations/compare/v1.0.3...v1.0.4) (2022-07-21)
+
+
+### Bug Fixes
+
+* rename triangle ([8ae014b](https://github.com/zacharysnewman/shape-calculations/commit/8ae014b2bd196abf9fcd12cb6f08a32721728d15))
+
 ## [1.0.3](https://github.com/zacharysnewman/shape-calculations/compare/v1.0.2...v1.0.3) (2022-07-21)
 
 
