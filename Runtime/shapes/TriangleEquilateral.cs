@@ -4,7 +4,7 @@ using static Shaper.Math.Mathf;
 
 namespace Shaper.Shapes
 {
-    public class EquilateralTriangle : IRandomPointable
+    public class TriangleEquilateral : Shape2D, IShape2D
     {
         public float Length { get; private set; }
         public float Height { get => Sqrt(Pow(this.Length, 2) - Pow(this.Length / 2, 2)); }
@@ -14,13 +14,13 @@ namespace Shaper.Shapes
 		public (float, float) B { get => (this.Length, 0); }
 		public (float, float) C { get => (this.Length/2, this.Height); }
 
-        public EquilateralTriangle(float length)
+        public TriangleEquilateral(float length)
         {
             this.Length = length;
         }
 
         // Source: https://math.stackexchange.com/questions/3537762/random-point-in-a-triangle
-        public (float, float) GetRandomPoint()
+        public override (float, float) GetRandomPoint()
         {
             var(Cx, Cy) = this.C;
 			var r1 = Randomf.Range(0f,1f);
@@ -34,7 +34,7 @@ namespace Shaper.Shapes
 
 			var x = this.Length * r2 + Cx * r1;
 			var y = Cy * r1;
-			return (x, y);
+			return (x, -y);
         }
     }
 }

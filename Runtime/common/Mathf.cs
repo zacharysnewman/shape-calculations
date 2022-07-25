@@ -1,5 +1,4 @@
-﻿using System;
-namespace Shaper.Math
+﻿namespace Shaper.Math
 {
     public static class Mathf
     {

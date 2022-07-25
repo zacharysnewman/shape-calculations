@@ -4,9 +4,9 @@ using static Shaper.Math.Mathf;
 
 namespace Shaper.Shapes
 {
-    public class Hexagon : Shape2D, IShape2D
+    public class TriangleRight : Shape2D, IShape2D
     {
-        public Hexagon()
+        public TriangleRight()
         {
             throw new NotImplementedException();
         }

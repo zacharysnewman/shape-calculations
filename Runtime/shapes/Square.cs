@@ -3,7 +3,7 @@ using static Shaper.Math.Mathf;
 
 namespace Shaper.Shapes
 {
-    public class Square : IRandomPointable
+    public class Square : Shape2D, IShape2D, IRectangle
     {
         public float Length { get; private set; }
         public float Width { get => this.Length; }
@@ -17,7 +17,7 @@ namespace Shaper.Shapes
             this.Length = length;
         }
 
-        public (float, float) GetRandomPoint() =>
+        public override (float, float) GetRandomPoint() =>
             (Randomf.Range(-this.Width, this.Width), Randomf.Range(-this.Height, this.Height));
     }
 }
