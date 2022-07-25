@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/zacharysnewman/shaper/compare/v1.1.7...v1.2.0) (2022-07-25)
+
+
+### Features
+
+* **shapes:** Implemented new interfaces and inherited from a new base class ([97f08c6](https://github.com/zacharysnewman/shaper/commit/97f08c62469ce7134d1940f4ff55f66778000afe))
+
 ## [1.1.7](https://github.com/zacharysnewman/shaper/compare/v1.1.6...v1.1.7) (2022-07-21)
 
 
