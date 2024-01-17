@@ -7,6 +7,10 @@
         public static float Pow(float x, float y) => (float)System.Math.Pow(x, y);
         public static float Cos(float f) => (float)System.Math.Cos(f);
         public static float Sin(float f) => (float)System.Math.Sin(f);
+        public static float DegToRad(float degrees)
+        {
+            return degrees * (float)(System.Math.PI / 180.0);
+        }
         public static (float, float) VectorSubtract((float, float) a, (float, float) b)
         {
             var (ax, ay) = a;
