@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/zacharysnewman/shaper/compare/v1.2.0...v1.3.0) (2024-06-29)
+
+
+### Bug Fixes
+
+* **release.yml:** Update release.yml ([6ec85e6](https://github.com/zacharysnewman/shaper/commit/6ec85e6ffdb42c3fd24e82a37d7e37a8004a732f))
+
+
+### Features
+
+* **Hexagon:** Added Hexagon shape ([c4ab03b](https://github.com/zacharysnewman/shaper/commit/c4ab03bbfb87e1c1b6a2a9d4531dfcf473c736d7))
+
 # [1.2.0](https://github.com/zacharysnewman/shaper/compare/v1.1.7...v1.2.0) (2022-07-25)
 
 
